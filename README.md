@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FedericoBossi
+- 👀 I’m interested in Informatics things
+- 🌱 I’m currently learning Economy and New Digital Technologies
+- 💞️ I’m looking to collaborate on MatLab
+- 📫 How to reach me: bossi.federico.re@outlook.it
